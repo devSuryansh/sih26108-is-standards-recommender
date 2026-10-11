@@ -1,0 +1,194 @@
+[
+ {
+  "id": "SAMPLE-001",
+  "title": "Portland cement, general purpose",
+  "keywords": "cement concrete construction binder strength setting time compressive grade 43 53 OPC",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-002",
+  "title": "Steel reinforcement bars for concrete",
+  "keywords": "TMT steel rebar reinforcement bars yield strength ductility construction",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-003",
+  "title": "Structural steel sections",
+  "keywords": "structural steel beams channels angles rolled sections girders fabrication",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-004",
+  "title": "Burnt clay bricks",
+  "keywords": "bricks clay masonry compressive strength water absorption walls",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-005",
+  "title": "Fly ash blended cement",
+  "keywords": "fly ash pozzolana cement blended concrete durability",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-006",
+  "title": "Cotton bed sheets and linen",
+  "keywords": "cotton fabric bed sheet linen textile thread count hostel hospital",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-007",
+  "title": "Cotton uniforms fabric",
+  "keywords": "uniform fabric polyester cotton blend shirt trouser tailoring textile",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-008",
+  "title": "LED lamps for general lighting",
+  "keywords": "LED lamp bulb lighting luminous efficacy wattage energy efficient",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-009",
+  "title": "LED street luminaires",
+  "keywords": "street light luminaire LED outdoor road lighting IP65 lumens",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-010",
+  "title": "Ceiling fans, electric",
+  "keywords": "ceiling fan electric motor sweep air delivery energy rating",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-011",
+  "title": "Room air conditioners",
+  "keywords": "air conditioner split window cooling capacity star rating refrigerant",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-012",
+  "title": "Domestic refrigerators",
+  "keywords": "refrigerator fridge cooling frost free energy consumption litres",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-013",
+  "title": "PVC insulated electric cables",
+  "keywords": "PVC cable wire copper conductor insulation electrical wiring 1100 V",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-014",
+  "title": "Miniature circuit breakers",
+  "keywords": "MCB circuit breaker electrical protection current rating switchgear",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-015",
+  "title": "Packaged drinking water",
+  "keywords": "packaged drinking water bottled mineral water bacteriological safety",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-016",
+  "title": "Milk powder",
+  "keywords": "milk powder dairy skimmed whole protein fat moisture food",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-017",
+  "title": "Edible vegetable oils",
+  "keywords": "edible oil vegetable refined sunflower groundnut food fatty acid",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-018",
+  "title": "Wheat flour (atta)",
+  "keywords": "wheat flour atta food grain gluten moisture ash content",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-019",
+  "title": "Packaged rice",
+  "keywords": "rice food grain polished basmati broken grains",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-020",
+  "title": "Safety helmets industrial",
+  "keywords": "safety helmet head protection industrial impact resistance PPE",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-021",
+  "title": "Safety footwear",
+  "keywords": "safety shoes footwear toe cap steel industrial protective PPE",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-022",
+  "title": "Fire extinguishers portable",
+  "keywords": "fire extinguisher portable powder foam CO2 fire safety",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-023",
+  "title": "Plastic water storage tanks",
+  "keywords": "water tank plastic polyethylene storage overhead capacity litres",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-024",
+  "title": "PVC pipes for potable water",
+  "keywords": "PVC pipe potable water supply plumbing pressure rating",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-025",
+  "title": "HDPE pipes for water supply",
+  "keywords": "HDPE pipe polyethylene water supply irrigation pressure",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-026",
+  "title": "Office furniture, steel",
+  "keywords": "steel almirah cupboard office furniture storage cabinet",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-027",
+  "title": "Wooden office tables and chairs",
+  "keywords": "wood furniture office table chair desk seating",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-028",
+  "title": "Paper for printing and writing",
+  "keywords": "paper A4 printing copier writing GSM stationery office",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-029",
+  "title": "Laptop and desktop computer safety",
+  "keywords": "computer laptop desktop IT equipment safety information technology",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-030",
+  "title": "Paints, interior emulsion",
+  "keywords": "paint emulsion interior wall coating distemper VOC",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-031",
+  "title": "Infant feeding bottles",
+  "keywords": "feeding bottle infant baby plastic polypropylene BPA",
+  "note": "SAMPLE entry, not real BIS text"
+ },
+ {
+  "id": "SAMPLE-032",
+  "title": "Electric water heaters storage type",
+  "keywords": "water heater geyser electric storage thermostat insulation",
+  "note": "SAMPLE entry, not real BIS text"
+ }
+]
